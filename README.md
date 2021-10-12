@@ -7,9 +7,9 @@
 
 ----
 
-🔭 I’m currently a final year student at Vellore Institute of Technology. <br>
+🏛️ I’m currently a final year student at Vellore Institute of Technology. <br>
 ✍️ I occasionally blog [here](https://vaishnavinandakumar.wordpress.com/).<br>
-📚 I also love to read! You can checkout my book reviews [here](https://www.goodreads.com/user/show/17636508-vaishnavi-nandakumar).  <br>
+📚 I also love to read! You can check out some of my book reviews [here](https://www.goodreads.com/user/show/17636508-vaishnavi-nandakumar).  <br>
 🌏 Check out my portfolio website at [vaishnavinandakumar.com](https://vaishnavinandakumar.com/) <br>
 📧 Reach out via email at vaishnavi.nandakumar20@gmail.com <br>
 
