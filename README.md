@@ -1,6 +1,9 @@
 
 ## Hi! I'm Vaishnavi.   
 
+[![Twitter][1.2]][1] &nbsp; &nbsp; &nbsp; [![LinkedIn][2.2]][2] &nbsp; &nbsp; &nbsp; [![Twitter][3.2]][3]
+
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${VaishnaviNandakumar}.${VaishnaviNandakumar}&left_color=black&right_color=blue)
 
@@ -19,3 +22,14 @@
 <a href="https://stackoverflow.com/users/15834974/vnk"><img src="https://stackoverflow.com/users/flair/15834974.png" width="208" height="58" alt="profile for vnk at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for vnk at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ----
 
+<!-- Icons -->
+
+[1.2]: https://i.imgur.com/6imiIfl.png
+[2.2]: https://i.imgur.com/WbmDXfB.png
+[3.2]: https://i.imgur.com/mlybXjv.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/vaishnavinandakumar/
+[2]: https://stackoverflow.com/users/15834974/vnk
+[3]: https://twitter.com/vaishnavink_
