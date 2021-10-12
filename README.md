@@ -13,8 +13,6 @@
 🌏 Check out my portfolio website at [vaishnavinandakumar.com](https://vaishnavinandakumar.com/) <br>
 📧 Reach out via email at vaishnavi.nandakumar20@gmail.com <br>
 
-----
-
 <!-- Icons -->
 
 [1.2]: https://i.imgur.com/6imiIfl.png
