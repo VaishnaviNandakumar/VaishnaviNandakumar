@@ -6,8 +6,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${VaishnaviNandakumar}.${VaishnaviNandakumar}&left_color=black&right_color=blue)
 
 ----
-
-🏛️ I’m currently a final year student at Vellore Institute of Technology. <br>
+:computer: I work as a software engineer at Visa. <br>
+🏛️ I’m a 2022 graduate from Vellore Institute of Technology. <br>
 ✍️ I occasionally blog [here](https://vaishnavinandakumar.wordpress.com/).<br>
 📚 I also love to read! You can check out some of my book reviews [here](https://www.goodreads.com/user/show/17636508-vaishnavi-nandakumar).  <br>
 🌏 Check out my portfolio website at [vaishnavinandakumar.com](https://vaishnavinandakumar.com/) <br>
